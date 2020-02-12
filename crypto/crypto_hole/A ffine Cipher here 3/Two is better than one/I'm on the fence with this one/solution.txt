@@ -1,0 +1,3 @@
+Inspired by the title we google fence cipher. It is a rail fence cipher, and we must be sure that the cipher doesn't take into account punctuation and spaces
+
+password:·VSEAS5aevg8Bwlovr (without the ·) 

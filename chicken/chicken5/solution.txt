@@ -1,0 +1,1 @@
+This time I took the intendent route. I used file on the extension-less file in the directory and found that it was gzip compressed data and used to be a .txt file. However it did not have .gz extension, so I did mv * *.gz. After that doing gunzip the_sky_is_falling.gz does the trick.

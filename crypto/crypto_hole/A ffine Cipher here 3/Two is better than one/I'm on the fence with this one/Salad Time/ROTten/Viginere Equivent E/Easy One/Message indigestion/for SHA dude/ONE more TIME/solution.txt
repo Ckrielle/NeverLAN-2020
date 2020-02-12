@@ -1,0 +1,3 @@
+Since the directory name emphasizes ONE and TIME we understand that it's a ONE TIME PAD, with the unencrypted text in the beginning being the pad. HOwever it doesn't decrypt it all, so there is some text missing, which is confirmed from the 3 .. So we google the sentence and we find this website http://phrack.org/issues/7/3.html which has the entire paragraph.
+
+Congrats on finishing all the crypto challenges built into this one super holy moly long folder... So yeah, here's your flag for a job well done flag{crypt0sRphun} 

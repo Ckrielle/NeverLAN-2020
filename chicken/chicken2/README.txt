@@ -1,0 +1,1 @@
+The same as before, only that now we are loging in as user level1 on the server. Use the previous flag as the password. This pattern of the users number increasing by 1 is stable across the rest of the levels.

@@ -1,0 +1,1 @@
+We access /robots.txt directory and see that there is a flag.txt on the site.

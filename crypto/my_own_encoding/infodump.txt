@@ -1,0 +1,3 @@
+We have a 5x5 grid with colored small boxes. Writing them down and reverting them to letters gives the flag, considering that a is 0 and z is 25
+
+200 pt

@@ -1,0 +1,1 @@
+In my opinnion the crypto were the easiest, as I did them almost all (except from the last because I suck at stego). All you had to do was get inspored from the title names and do some proper googling, except from the RSA which required some programming and thinking.

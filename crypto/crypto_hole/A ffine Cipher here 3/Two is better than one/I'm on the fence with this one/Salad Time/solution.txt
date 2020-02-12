@@ -1,0 +1,3 @@
+We google salad cipher and we get the caesar cipher. However the typical caesar cipher doesn't work. After googling for some time, I learned that you can use a key can be used with it.
+
+password: gTLvCGk$HyRVSssXVaSX

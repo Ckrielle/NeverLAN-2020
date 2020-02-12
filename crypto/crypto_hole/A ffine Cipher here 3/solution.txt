@@ -1,0 +1,3 @@
+We see the repeated z in the first word and so we get inspired that it's a rot cipher. It's rot 7
+
+password: AfvqPZW0bDMB&HTfzo

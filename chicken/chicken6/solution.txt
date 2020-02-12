@@ -1,0 +1,1 @@
+For this we had to copy the image from the remote ssh to our machine to open it. This is easily done by scp -p3333 level6@44.233.149.141:chicken-little.png .

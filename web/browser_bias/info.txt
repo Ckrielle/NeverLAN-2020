@@ -1,0 +1,7 @@
+google commodo 64 user agent and https://gist.github.com/dstufft/2502524
+
+press f3 commodo 64, and then curl -A "Contiki/1.0 (Commodore 64; http://dunkels.com/adam/contiki/) " https://challenges.neverlanctf.com:1130
+
+flag{8b1t_w3b}
+
+150 pt

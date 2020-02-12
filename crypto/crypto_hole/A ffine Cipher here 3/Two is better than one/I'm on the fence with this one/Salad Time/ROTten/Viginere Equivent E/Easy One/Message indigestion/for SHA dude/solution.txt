@@ -1,0 +1,3 @@
+Based on the previous callenge this looks like a hast and the directory name tells us it is SHA. We plug it into crackstation and it's already been cracked
+
+applez14

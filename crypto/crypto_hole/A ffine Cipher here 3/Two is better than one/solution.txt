@@ -1,0 +1,3 @@
+We google double cipher, inspired by the name of the directory and we get duble transpositional cipher. The keys are NEVERLEARNCTF, and it must be applied only on lines.
+
+PASSWORDV78DTNRI6KBD3SDFQXXXXXXXX (without the X's)
